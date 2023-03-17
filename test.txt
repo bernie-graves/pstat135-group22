@@ -2,4 +2,8 @@ Test document
 
 Testing Again!
 
+<<<<<<< HEAD
 Edit from GCP
+=======
+Edit from github.
+>>>>>>> 8117eee65684b4720e3b5c6d54f896a1acdc5dd4
